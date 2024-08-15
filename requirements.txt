@@ -1,0 +1,9 @@
+torch
+transformers
+whisper
+gradio
+gtts
+Pillow
+nltk
+numpy
+requests
